@@ -1,0 +1,295 @@
+/* FOR LAPTOPS, DESKTOPS */
+
+
+
+@media all and (min-width: 800px) and (max-width: 1200px) {
+
+}
+
+@media all and (min-width: 1200px) {
+
+}
+
+/* FOR MOBILE */
+
+/*Source for different devices http://cssmediaqueries.com/target/*/
+@media all and (max-device-width: 480px) and (orientation: portrait){
+	body{
+		font-size: 40px;
+		}
+
+
+#pcontact{
+	font-size: 40px;
+	/*padding-top: 30px;*/
+	/*padding-left: 30px;*/
+}
+
+.pcontact{
+	font-size: 40px;
+	/*padding-left: 30px;*/
+}
+
+#image_me{
+	/*padding-left: 30px;*/
+}
+
+
+
+}
+/* seems to be a difference between Android and iOS, device-width and device-height changes with orientation*/
+@media all and (max-device-width: 480px) and (orientation: landscape),
+all and (max-device-height: 480px) and (orientation: landscape){
+
+}
+
+/*this is my background for the pages. when you hover it turns blue*/
+.main_content{
+	background-color: #EEEEEE;
+	min-height:200vh;
+	transition: 3s;
+	border:18px white solid;
+	margin:0;
+}
+
+/*.main_content:hover{
+	background-color: #7DF5FF;
+}*/
+
+
+
+/*these are the titles for every page*/
+.titles{
+	display: inline-block;
+	text-align: left;
+	padding-top: 60px;
+	padding-left: 30px;
+	padding-bottom: 50px;
+	z-index: 1;
+	font-family: 'Roboto Condensed', sans-serif;
+	font-weight: lighter;
+	font-size: 60px;
+	color: #515151;
+	text-shadow: 1px 1px;
+	margin:0;
+}
+
+
+.main_titles{
+	/*display: inline-block;*/
+	text-align: center;
+	padding-top: 50px;
+	padding-left: 30px;
+	padding-bottom: 50px;
+/*	z-index: 1;*/
+	font-family: 'Roboto Condensed', sans-serif;
+	font-weight: light300;
+	font-size: 100px;
+	color: #515151;
+	/*text-shadow: 1px 1px;*/
+	margin:0;
+}
+
+
+
+/* this is my about page text*/
+.pcontact{
+	width: 50%;
+	display: absolute;
+
+	/*display: inline-block;*/
+	margin: 0;
+	padding-left: 30px;
+/*	font-size: 30px;*/
+	color: #515151;
+	font-family: 'Roboto Condensed', sans-serif;
+	/*z-index: 1;*/
+}
+
+#pcontact_info{
+	width: 50%;
+	display: inline-block;
+	display: none;
+	margin: 0;
+	padding-left: 30px;
+	font-size: 18px;
+	color: #515151;
+	font-family: 'Roboto Condensed', sans-serif;
+	/*z-index: 1;*/
+}
+
+
+/*this is my about page image of me*/
+.image_me{
+	/*float: right;*/
+	/*padding-right: 50px;*/
+	/*display: inline-block;*/
+	margin: 0;
+	padding-left: 20px;
+	padding-bottom: 30px;
+}
+
+
+.beach{
+	/*position: absolute;*/
+	top: 50px;
+	margin-left: 25px;
+	z-index: -1;
+	width: 80px;
+	height: auto;
+}
+
+
+
+
+.featured{
+	
+	font-family: 'Roboto Condensed', sans-serif;
+	color: #515151;
+	font-size: 40px;
+	margin-bottom: 50px;
+	margin-left: 30px;
+	text-shadow: 1px 1px;
+}
+
+.yellow{
+	display: inline-block;
+	padding-left: 25px;
+	padding-right: 25px;
+	margin: auto;
+	
+}
+
+
+.landscape{
+	font-size: 18px;
+	font-family: 'Roboto Condensed', sans-serif;
+	padding-left: 30px;
+	color: #515151;
+}
+
+
+
+/*.design_images{
+	padding-left: 25px;
+
+}*/
+
+.abstract{
+	padding-left: 30px;
+	font-family: 'Roboto Condensed', sans-serif;
+	color: #515151;
+	font-size: 18px;
+	
+
+}
+
+
+.abstract_images{
+	padding-left: 25px;
+
+}
+
+.saci{
+	font-size: 18px;
+	font-family: 'Roboto Condensed', sans-serif;
+	padding-left: 30px;
+	color: #515151;
+	padding-bottom: 20px;
+}
+
+.design_images{
+	text-align: center;
+}
+
+.tel_aviv{
+	font-size: 18px;
+	font-family: 'Roboto Condensed', sans-serif;
+	padding-left: 35px;
+	color: #515151;
+	padding-bottom: 20px;
+	padding-top: 20px;
+}
+
+.tel_aviv_images{
+	/*padding-left: 25px;*/
+	text-align: center;
+}
+
+.new_york{
+	font-size: 18px;
+	font-family: 'Roboto Condensed', sans-serif;
+	padding-left: 30px;
+	color: #515151;
+	padding-bottom: 20px;
+	padding-top: 20px;
+}
+
+
+.new_york_images{
+	/*padding-left: 25px;*/
+	text-align: center;
+}
+
+.blurb {
+	font-size: 20px;
+	font-family: 'Roboto Condensed', sans-serif;
+	padding-left: 30px;
+	color: black;
+}
+
+
+.cover_images{
+	text-align:center; 
+	
+}
+
+/*-*********************NAVIGATION BAR************************/
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto Condensed', sans-serif;
+    color: #FFFFFF;
+    background-color: white;
+    size: 8pt;
+    width:100%;
+    text-align:left;
+	}
+
+
+li {
+    display: inline-block;
+	}
+
+
+li a {
+    padding: 14px 16px;
+    text-decoration: none;
+	}
+
+
+/*links to not change colors*/
+a:link {
+	color: black;
+}
+
+a:visited {
+	color: black;
+}	
+
+a:hover{
+    color: #00B4FF;
+}
+
+a:active{
+	color: black;
+}
+
+
+/*fly in for design page*/
+  *
+  {
+    margin:0;
+    padding:0;
+  }
