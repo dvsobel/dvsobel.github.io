@@ -1,0 +1,255 @@
+[
+  {
+    "id": 1,
+    "name": "Water Lillies",
+    "profile-pic": "http://images.metmuseum.org/CRDImages/ep/original/DP-1208-001.jpg",
+    "project": {
+      "title": "Claude Monet",
+      "thesis-category": "Impressionism",
+      "image": "http://images.metmuseum.org/CRDImages/ep/original/DP-1208-001.jpg",
+      "blurb": "Water Lilies",
+      "description": "This work is one of four pictures of water lilies that, quite exceptionally, Monet finished, signed, and sold in 1919. Much of his late work was not finished, and few paintings were released for sale. In a letter he reported that he was not yet pleased with the paintings, but that he was working on them with passion.",
+      "studio-professor-1": "ScottPobiner",
+      "studio-professor-2": "DavidCarroll"
+    }
+  },
+  {
+    "id": 2,
+    "name": "The Path through the Irises",
+    "profile-pic": "http://images.metmuseum.org/CRDImages/ep/original/DT1890.jpg",
+    "project": {
+      "title": "Claude Monet",
+      "thesis-category": "Impressionism",
+      "image": "http://images.metmuseum.org/CRDImages/ep/original/DT1890.jpg",
+      "blurb": "The Path Through the Irises",
+      "description": " Irises, among Monet's favorite flowers, lined the pathways leading up to the house and Japanese bridge on the artist's property at Giverny. This bird's-eye view of a garden path belongs to a series of monumental works painted during the First World War that capture the vital essence of these flowers with intensity and breadth of vision. Late in life, as his eyesight faltered, he dispensed with subtlety and took in the motif in large masses, waiting until the idea took shape, until the arrangement and composition inscribed themselves on the brain.",
+      "studio-professor-1": "JohnSharp",
+      "studio-professor-2": "AnetaGenova"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Gertrude Stein",
+    "profile-pic": "http://images.metmuseum.org/CRDImages/ma/web-large/GTfrontisCUTR6_80FF.jpg",
+    "project": {
+      "title": "Pablo Picasso",
+      "thesis-category": "Cubism",
+      "image": "http://images.metmuseum.org/CRDImages/ma/web-large/GTfrontisCUTR6_80FF.jpg",
+      "blurb": "Gertrude Stein",
+      "description": "The famous writer and expatriate Gertrude Stein was among the first Americans to respond enthusiastically to European avant-garde art. She held weekly salons in her Paris apartment populated by European and American artists and writers. For Picasso, Stein’s early patronage and friendship was critical to his success. He painted this portrait of her between 1905 and 1906 at the end of his so-called Rose Period. He reduces her body to simple masses—a foreshadowing of his adoption of Cubism—and portrays her face like a mask with heavy lidded eyes, reflecting his recent encounter with Iberian sculpture.",
+      "studio-professor-1": "MelanieCrean",
+      "studio-professor-2": "KateSicchio"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Self-Portrait",
+    "profile-pic": "http://images.metmuseum.org/CRDImages/ep/original/DP152808.jpg",
+    "project": {
+      "title": "Rembrandt (Rembrandt van Rijn)",
+      "thesis-category": "Boroque",
+      "image": "http://images.metmuseum.org/CRDImages/ep/original/DP152808.jpg",
+      "blurb": "Self-Portrait",
+      "description": "The dozen or more self-portraits that date from each decade of Rembrandt's career vary considerably in composition, expression and technique. In the late examples, the broad applications of paint convey a candid record of the artist's aging features.",
+      "studio-professor-1": "KateSicchio",
+      "studio-professor-2": "MarkoTandefelt"
+    }
+  },
+  {
+    "id": 5,
+    "name": "The Adoration of the Magi",
+    "profile-pic": "http://images.metmuseum.org/CRDImages/ep/original/DP372687.jpg",
+    "project": {
+      "title": "Hieronymus Bosch",
+      "thesis-category": "Northern-Rennisance",
+      "image": "http://images.metmuseum.org/CRDImages/ep/original/DP372687.jpg",
+      "blurb": "The Adoration of the Magi",
+      "description": "Technical examination of numerous works by Hieronymus Bosch has allowed for the reconsideration of his oeuvre. Long thought to be a later pastiche, this panel can now be placed among Bosch's earliest autograph works. The salient features of its underdrawing, the tunnel-like perspective, and certain of the rather wooden figure types with sensitively rendered faces are closely related to other early paintings by the master. The stage-like setting of the scene with a curtain held aloft by angels might indicate that the composition was influenced by religious plays, which were performed in Bosch’s hometown of ‘s-Hertogenbosch.",
+      "studio-professor-1": "MelanieCrean",
+      "studio-professor-2": "MarkoTandefelt"
+    }
+  },
+  {
+    "id": 6,
+    "name": "The Accommodations of Desire",
+    "profile-pic": "http://images.metmuseum.org/CRDImages/ma/web-large/ma1999.363.16.jpg",
+    "project": {
+      "title": "Salvador Dalí",
+      "thesis-category": "Surrealism",
+      "image": "http://images.metmuseum.org/CRDImages/ma/web-large/ma1999.363.16.jpg",
+      "blurb": "The Accommodations of Desire",
+      "description": "Access & Closure is a series of seven jackets created for women who have undergone post-surgery breast cancer. By rethinking traditional pattern making techniques, clothing closures were used as functional elements. The jacket designs were inspired by conversations and in-person interactions with women who have experienced breast cancer. Each jacket in the collection solves issues specific to different phases of the recovery process. The final jacket includes interactive technology, allowing the jacket to become a communication tool: spreading awareness of the changes and difficulties breast cancer survivors live through.",
+      "studio-professor-1": "ScottPobiner",
+      "studio-professor-2": "AnetaGenova"
+    }
+  },
+  {
+    "id": 7,
+    "name": "A Sunday on La Grande Jatte",
+    "profile-pic": "http://images.metmuseum.org/CRDImages/ep/original/DP259921.jpg",
+    "project": {
+      "title": "Georges Seurat",
+      "thesis-category": "Pointillism",
+      "image": "http://images.metmuseum.org/CRDImages/ep/original/DP259921.jpg",
+      "blurb": "A Sunday on La Grande Jatte",
+      "description": "This is Seurat’s final study for his monumental painting of Parisians at leisure on an island in the Seine (Art Institute of Chicago). Contrasting pigments are woven together with small, patchy brushstrokes, whereas in the mural-sized park scene—which debuted two years later at the 1886 Impressionist exhibition—Seurat used tighter, dot-like dabs of paint, a technique which came to be known as Pointillism (from the French word point, or dot). He preferred the term Divisionism—the principle of separating color into small touches placed side-by-side and meant to blend in the eye of the viewer.",
+      "studio-professor-1": "SvenTravis",
+      "studio-professor-2": "JesseHarding"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Mäda Primavesi",
+    "profile-pic": "http://images.metmuseum.org/CRDImages/ep/web-large/DP243354.jpg",
+    "project": {
+      "title": "Gustav Klimt",
+      "thesis-category": "Art-Nouveau",
+      "image": "http://images.metmuseum.org/CRDImages/ep/web-large/DP243354.jpg",
+      "blurb": "Mäda Primavesi",
+      "description": "Mäda Primavesi was, by her own account, an independent, assertive young girl, qualities amply captured in this portrait of her at about nine years old. Klimt made numerous preliminary sketches for the picture, experimenting with different poses and background motifs before he arrived at the present composition, with Mäda boldly silhouetted against a field of decorative patterns. The image testifies to the sophisticated taste of her parents, banker and industrialist Otto Primavesi and his wife Eugenia, who were ardent supporters of progressive Viennese art and design; in fact, Klimt soon painted Eugenia’s portrait (Toyota Municipal Museum of Art).",
+      "studio-professor-1": "JohnSharp",
+      "studio-professor-2": "AnezkaSebek"
+    }
+  },
+  {
+    "id": 9,
+    "name": "May Picture",
+    "profile-pic": "http://images.metmuseum.org/CRDImages/ma/web-large/DP-824-001.jpg",
+    "project": {
+      "title": "Paul Klee",
+      "thesis-category": "Expressionism",
+      "image": "http://images.metmuseum.org/CRDImages/ma/web-large/DP-824-001.jpg",
+      "blurb": "Savage Diction is a short film narrated by artificial intelligence.",
+      "description": "This painting is from Klee’s Magic Square series, which grew out of a visit to Tunisia in 1914. Klee embraced the full power of abstraction by fractioning the landscape into squares, which seem to extend beyond the edges of the painting. The squares themselves can be viewed as odd-shaped stones assembled to form a mosaic. The work also reveals Klee’s preoccupation with color theory, which informed his teaching at the Bauhaus.",
+      "studio-professor-1": "JohnSharp",
+      "studio-professor-2": "DavidCarroll"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Irises",
+    "profile-pic": "http://images.metmuseum.org/CRDImages/ep/web-large/DP346474.jpg",
+    "project": {
+      "title": "Vincent van Gogh ",
+      "thesis-category": "Post-Impressionism",
+      "image": "http://images.metmuseum.org/CRDImages/ep/web-large/DP346474.jpg",
+      "blurb": "Irises",
+      "description": "In May 1890, just before he checked himself out of the asylum at Saint-Rémy, Van Gogh painted four exuberant bouquets of spring flowers, the only still lifes of any ambition he had undertaken during his yearlong stay: two of irises, two of roses, in contrasting color schemes and formats. In the Museum’s Irises he sought a “harmonious and soft” effect by placing the “violet” flowers against a “pink background,” which have since faded owing to his use of fugitive red pigments. Another work from this series, Roses (1993.400.5), hangs in the adjacent gallery. Both were owned by the artist’s mother until her death in 1907.",
+      "studio-professor-1": "JohnSharp",
+      "studio-professor-2": "JesseHarding"
+    }
+  },
+  {
+    "id": 11,
+    "name": "Young Mother Sewing",
+    "profile-pic": "http://images.metmuseum.org/CRDImages/ap/web-large/DP139632.jpg",
+    "project": {
+      "title": "Mary Cassatt",
+      "thesis-category": "Impressionism",
+      "image": "http://images.metmuseum.org/CRDImages/ap/web-large/DP139632.jpg",
+      "blurb": "Young Mother Sewing",
+      "description": "In about 1890 Cassatt redirected her art toward women caring for children and children alone—themes that reflected her affection for her nieces and nephews and the prevailing cultural interest in child rearing. Cassatt enlisted two unrelated models to enact the roles of mother and child for this painting. Louisine Havemeyer, who purchased it in 1901, remarked on its truthfulness: “Look at that little child that has just thrown herself against her mother’s knee, regardless of the result and oblivious to the fact that she could disturb ‘her mamma.’ And she is quite right, she does not disturb her mother. Mamma simply draws back a bit and continues to sew.”",
+      "studio-professor-1": "MelanieCrean",
+      "studio-professor-2": "AnezkaSebek"
+    }
+  },
+  {
+    "id": 12,
+    "name": "Tahitian Landscape",
+    "profile-pic": "http://images.metmuseum.org/CRDImages/ep/web-large/DT1955.jpg",
+    "project": {
+      "title": "Paul Gauguin",
+      "thesis-category": "Post-Impressionism",
+      "image": "http://images.metmuseum.org/CRDImages/ep/web-large/DT1955.jpg",
+      "blurb": "Tahitian Landscape",
+      "description": "Although the authorship of this picture was once questioned, cleaning and reexamination have securely demonstrated that it is one of a group of landscapes that Gauguin painted during his first Tahitian sojourn, showing small figures and a hut amid tropical greenery. There are drawings related to the couple and the horse in this picture, attesting to the artist’s eye for local detail. This was the first painting by Gauguin to enter the Metropolitan’s collection, by donation in 1939.",
+      "studio-professor-1": "MelanieCrean",
+      "studio-professor-2": "KateSicchio"
+    }
+  },
+  {
+    "id": 13,
+    "name": "The Bride Stripped Bare by Her Bachelors, Even (The Green Box)",
+    "profile-pic": "http://images.metmuseum.org/CRDImages/ma/web-large/DP110089.jpg",
+    "project": {
+      "title": "Marcel Duchamp",
+      "thesis-category": "Dada",
+      "image": "http://images.metmuseum.org/CRDImages/ma/web-large/DP110089.jpg",
+      "blurb": "The Bride Stripped Bare by Her Bachelors, Even (The Green Box)",
+      "description": "This edition of selected notes details the ideas and thought processes behind Duchamp's ground-breaking work The Bride Stripped Bare by Her Bachelors, Even (The Large Glass) (1915-23). The haphazard appearance of the box’s contents belies the care Duchamp took in its creation: he painstakingly tore collotype reproductions along the edges of custom-made templates in the shape of ninety-three notes originally written on stray scraps of paper. The results offer viewers the opportunity to become active participants in the notes’ arrangement and interpretation.",
+      "studio-professor-1": "ScottPobiner",
+      "studio-professor-2": "KateSicchio"
+    }
+  },
+  {
+    "id": 14,
+    "name": "Nine Jackies",
+    "profile-pic": "http://images.metmuseum.org/CRDImages/ma/web-thumb/DT7627.jpg",
+    "project": {
+      "title": "Andy Warhol",
+      "thesis-category": "Pop",
+      "image": "http://images.metmuseum.org/CRDImages/ma/web-thumb/DT7627.jpg",
+      "blurb": "Nine Jackies",
+      "description": "In the weeks that followed the assassination of President John F. Kennedy in Dallas on November 22, 1963, Warhol began to collect pictures of the widowed First Lady that flooded the popular press. He had silkscreens made of his various Jackie images and, upon his move into a new studio (the first of his famous New York Factories) on East 47th Street at the end of January 1964, began to print them on small canvases with blue- and gold-colored grounds. The close-cropped image here reproduces a moment shortly before any shots were fired, and the replication of the picture, over and over again, puts the ubiquitous coverage and public obsession with the tragic event into high relief.",
+      "studio-professor-1": "MelanieCrean",
+      "studio-professor-2": "MarkoTandefelt"
+    }
+  },
+  {
+    "id": 15,
+    "name": "The Lovers",
+    "profile-pic": "http://images.metmuseum.org/CRDImages/ma/web-large/DT4456.jpg",
+    "project": {
+      "title": "Marc Chagall",
+      "thesis-category": "Expressionism",
+      "image": "http://images.metmuseum.org/CRDImages/ma/web-large/DT4456.jpg",
+      "blurb": "The Lovers",
+      "description": "Fairy-tale details of a Russian town can be seen through the window of Chagall's imaginary scene of his room in Vitebsk, painted in Paris. The lovers represent the artist with his fiancée, Bella Rosenfeld. Mainly self-taught, Chagall developed a unique style that blends sentiment and fantasy - an effect the poet Guillaume Apollinaire called supernatural",
+      "studio-professor-1": "BradMacDonald",
+      "studio-professor-2": "KateSicchio"
+    }
+  },
+  {
+    "id": 16,
+    "name": "Woman with a Rake",
+    "profile-pic": "http://images.metmuseum.org/CRDImages/ep/web-large/DT1978.jpg",
+    "project": {
+      "title": "Jean-François Millet",
+      "thesis-category": "Realism",
+      "image": "http://images.metmuseum.org/CRDImages/ep/web-large/DT1978.jpg",
+      "blurb": "Woman with a Rake",
+      "description": "Millet first treated this subject in a woodcut, one of ten in the series Labors of the Fields that were published in a popular periodical in 1853. The art dealer Martinet, in whose gallery such avant-garde artists as Courbet and Manet exhibited, included this painting in a show in 1860.",
+      "studio-professor-1": "BradMacDonald",
+      "studio-professor-2": "MarkoTandefelt"
+      }
+  },
+  {
+    "id": 17,
+    "name": "Still from an Untitled Film",
+    "profile-pic": "http://images.metmuseum.org/CRDImages/ph/web-large/DP352689.jpg",
+    "project": {
+      "title": "Cindy Sherman",
+      "thesis-category": "Post-Modernism",
+      "image": "http://images.metmuseum.org/CRDImages/ep/web-large/DT1978.jpg",
+      "blurb": "Still from an Untitled Film",
+      "description": "Between 1977 and 1980 Sherman photographed herself in a series of sixty-seven staged scenarios meant to suggest Hollywood films of the 1950s, such as this Hitchcockian career girl alone on the streets of the big city. In each picture, the artist foregrounds the elements of cinematic form—from gaze and camera angle to lighting, costume, and backdrop—that trigger the stock narratives and characters from which our identities are composed.",
+      "studio-professor-1": "BradMacDonald",
+      "studio-professor-2": "MarkoTandefelt"
+      }
+  },
+  {
+    "id": 18,
+    "name": "The Goldfish Bowl",
+    "profile-pic": "http://images.metmuseum.org/CRDImages/ma/web-large/DP242766.jpg",
+    "project": {
+      "title": "Henri Matisse",
+      "thesis-category": "Fauvism",
+      "image": "http://images.metmuseum.org/CRDImages/ma/web-large/DP242766.jpg",
+      "blurb": "The Goldfish Bowl",
+      "description": "The walls of Matisse's third-floor apartment at 1, place Félix in Nice were covered with the patterned wallpaper seen in the background of this still life. (The same wallpaper is also visible in Three O'Clock Sitting [2008.551]). The artist is particularly interested in the role of sunlight as it streams in from the unseen window at right. In some areas, the light seems to dissolve the glass objects on the table. Elsewhere Matisse is more interested in refraction; he takes pains to convey the distortion of the wallpaper pattern as seen through the pale green liquid in the bottle at left.",
+      "studio-professor-1": "BradMacDonald",
+      "studio-professor-2": "MarkoTandefelt"
+
+    }
+  }
+]
