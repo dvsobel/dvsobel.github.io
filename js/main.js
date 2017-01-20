@@ -34,17 +34,30 @@
 
 
 // how to link to another page
-document.getElementById("dessert").addEventListener("click",function(){
+document.getElementById("DrawingApp").addEventListener("click",function(){
     window.location.href="painting.html";
 });
 
-document.getElementById("dairy").addEventListener("click",function(){
+document.getElementById("painting").addEventListener("click",function(){
     window.location.href="design.html";
 });
 
-document.getElementById("meat").addEventListener("click",function(){
+document.getElementById("unity").addEventListener("click",function(){
     window.location.href="aboutMe.html";
 });
+
+document.getElementById("cloud").addEventListener("click",function(){
+    window.location.href="aboutMe.html";
+});
+document.getElementById("drone").addEventListener("click",function(){
+    window.location.href="aboutMe.html";
+});
+
+document.getElementById("activities").addEventListener("click",function(){
+    window.location.href="aboutMe.html";
+});
+
+
 
 //development
 /*------------------------------------------------*/
