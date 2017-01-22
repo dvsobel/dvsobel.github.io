@@ -49,7 +49,7 @@ all and (max-device-height: 480px) and (orientation: landscape){
 
 	background-color: #EEEEEE;
 	min-height: 150vh;
-	min-width: 100vh;
+	max-width: 100vh;
 	/*transition: 3s;*/
 	border:18px white solid;
 	margin:0;
