@@ -28,7 +28,7 @@ all and (max-device-height: 480px) and (orientation: landscape){*/
 	min-height: 150vw;
 	font-size: 20px;
 	transition: 3s;
-	max-width: 100vh;
+	/*max-width: 100vh;*/
 }
 
 .main_titles{
