@@ -18,43 +18,7 @@ all and (max-device-height: 480px) and (orientation: landscape){
 
 }
 
-@media (max-width: 555px){
-  .project{
-    width:175px;
-    height:175px;
-    margin-left:10px;
-    margin-top:10px;
-  }
 
-  .projectHover{
-    width:175px;
-    height:175px;
-    position:absolute;
-  }
-  #about2 img{
-  width: 30%;
-  display:block;
-  margin:0 auto;
-  }
-  #about2 #text{
-  width:90% !important;
-  margin:20px auto 0 auto !important;
-  }
-}
-@media (max-width: 910px){
-  #about2 .disappear{
-    display:none;
-  }
-  #about2{
-    width:90%;
-  }
-  #about2 #text{
-  width:55%;
-  }
-  #about2 img{
-  width: 30%;
-  }
-}
 
 /*this is my background for the pages.*/
 .main_content{
@@ -90,7 +54,7 @@ all and (max-device-height: 480px) and (orientation: landscape){
 	padding-left: 30px;
 	padding-bottom: 50px;
 	font-family: 'Roboto Condensed', sans-serif;
-	font-weight: light300;
+/*	font-weight: 300;*/
 	font-size: 100px;
 	color: #515151;
 	margin:0;
