@@ -345,7 +345,7 @@ a:active{
 
 /*MAIN PAGE IMAGE LINKS*/
 #DrawingApp{
-    background-image:url("../images/DrawingApp.PNG");
+    background-image:url("../images/drawing.png");
     transition: background-color 1s;
 }
 
@@ -355,7 +355,7 @@ a:active{
         background-image:url("../images/beach.jpg");
 }
 #unity{
-        background-image:url("../images/Unity.png");
+        background-image:url("../images/unity.png");
 }
 
 #cloud{
