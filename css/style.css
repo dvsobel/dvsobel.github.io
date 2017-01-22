@@ -14,21 +14,33 @@
 }
 /* seems to be a difference between Android and iOS, device-width and device-height changes with orientation*/
 /*@media all and (max-device-width: 480px) and (orientation: landscape),
-all and (max-device-height: 480px) and (orientation: landscape){
+all and (max-device-height: 480px) and (orientation: landscape){*/
+
+/* Portrait and Landscape */
+@media all screen 
+  and (min-device-width: 414px) 
+  and (max-device-width: 736px) 
+  and (-webkit-min-device-pixel-ratio: 3) { 
+
 
 .main_content{
 	background-color: pink;
 	min-height: 150vh;
+	font-size: 20px;
 	transition: 3s;
-/*	border:18px white solid;*/
-	/*margin:0;*/
-/*}*/
-/*}*/
+	max-width: 100vh;
+}
 
-@media (max-width: 650px){
+.main_titles{
+	font-size: 10px;
+	text-align: center;
+	padding-left: 0px;
+}
+}
+/*@media (max-width: 650px){
   .main_content {
     width: 90%;
-    margin: 50px 30px;
+    margin: 20px 30px;
     border:10px white solid;
   }
   #project{
@@ -40,7 +52,7 @@ all and (max-device-height: 480px) and (orientation: landscape){
   #demo{
   width: 100%;
   }
-}
+}*/
 
 
 
@@ -49,7 +61,7 @@ all and (max-device-height: 480px) and (orientation: landscape){
 
 	background-color: #EEEEEE;
 	min-height: 150vh;
-	max-width: 100vh;
+/*	max-width: 100vh;*/
 	/*transition: 3s;*/
 	border:18px white solid;
 	margin:0;
@@ -78,11 +90,11 @@ all and (max-device-height: 480px) and (orientation: landscape){
 .main_titles{
 	text-align: center;
 	padding-top: 50px;
-	padding-left: 30px;
+	/*padding-left: 30px;*/
 	padding-bottom: 50px;
 	font-family: 'Roboto Condensed', sans-serif;
 /*	font-weight: 300;*/
-	font-size: 100px;
+	font-size: 15vh;
 	color: #515151;
 	margin:0;
 }
@@ -387,7 +399,7 @@ a:active{
   padding-left:20px;
 
   font-weight: 400;
-  font-size:18px;
+  font-size:3vmin;
   color: rgb(244,243,239);
   font-family: 'Roboto Condensed', sans-serif;
 }
