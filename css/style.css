@@ -23,7 +23,7 @@ all and (max-device-height: 480px) and (orientation: landscape){
 /*this is my background for the pages.*/
 .main_content{
 	background-color: #EEEEEE;
-	min-height:200vh;
+	min-height: 150vh;
 	transition: 3s;
 	border:18px white solid;
 	margin:0;
