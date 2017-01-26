@@ -35,7 +35,7 @@
 
 // how to link to another page
 document.getElementById("DrawingApp").addEventListener("click",function(){
-    window.location.href="painting.html";
+    window.location.href="drawingApp.html";
 });
 
 document.getElementById("painting").addEventListener("click",function(){
