@@ -124,7 +124,7 @@ a:active{
   vertical-align: top;
 }
 #projectDes a,#project a{
-  color: rgb(153,102,255);
+ /* color: rgb(153,102,255);*/
   text-decoration: none;
 }
 #project{
