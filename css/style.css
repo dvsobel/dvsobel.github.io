@@ -41,7 +41,7 @@ ul {
     background-color: white;
     /*size: 8px;*/
     width:100%;
-    font-size: 2.5vmin;
+    font-size: 2.0vmin;
     text-align:left;
 	}
 
@@ -202,7 +202,7 @@ iframe{
   background-size: contain;
 }
 #unity{
-  background-image: url(../images/unity.PNG);
+  background-image: url(../images/beach.jpg);
   background-size: contain;
 }
 #drone{
@@ -321,8 +321,11 @@ iframe{
 /*Projects page*/
 
 .title{
-  color:rgb(153,102,255); 
-  font-size: 16px;
+  color:#00B4FF; 
+  font-size: 18px;
+  font-family: 'Roboto Condensed', sans-serif;
+
+
 }
 
 .idea-title{
@@ -396,7 +399,8 @@ padding-left: 80px;
   margin-left: -100px;
   bottom:-30px;
   font-size:13px;
-  color:#9966ff;
+  font-family: 'Open Sans', sans-serif;
+  color:#00B4FF;
   text-align: center;
   opacity:0;
 }
@@ -404,7 +408,7 @@ padding-left: 80px;
   opacity:1;
 }
 .project:hover .projectHover{
-  background-color: rgba(0,2,84,0.4);
+  background-color: rgba(0,2,84,0.6);
 }
 
 #bottom{
