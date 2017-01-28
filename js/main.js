@@ -47,14 +47,18 @@ document.getElementById("unity").addEventListener("click",function(){
 });
 
 document.getElementById("cloud").addEventListener("click",function(){
-    window.location.href="aboutMe.html";
+    window.location.href="major-studio.html";
 });
 document.getElementById("drone").addEventListener("click",function(){
-    window.location.href="aboutMe.html";
+    window.location.href="drone.html";
 });
 
 document.getElementById("activities").addEventListener("click",function(){
-    window.location.href="aboutMe.html";
+    window.location.href="activties.html";
+});
+
+document.getElementById("instruction").addEventListener("click",function(){
+    window.location.href="instruction.html";
 });
 
 
