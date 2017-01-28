@@ -213,8 +213,8 @@ iframe{
   background-image: url(../images/activities.png);
   background-size: contain;
 }
-/*#unity{
-  background-image: url(../images/unity.png);
+#cloud{
+  background-image: url(../images/pillow.jpg);
   background-size: contain;
 }
 #unity{
@@ -248,7 +248,7 @@ iframe{
 #unity{
   background-image: url(../images/unity.PNG);
   background-size: contain;
-}*/
+}
 
 /*ABOUT ME SECTION*/
 #about{
