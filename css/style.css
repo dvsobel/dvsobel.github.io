@@ -41,8 +41,9 @@ ul {
     background-color: white;
     /*size: 8px;*/
     width:100%;
-    font-size: 2.0vmin;
+    font-size: .8rem;
     text-align:left;
+    letter-spacing: .15em;
 	}
 
 
@@ -189,9 +190,13 @@ iframe{
   top:50%;
   color:white;
   text-align: left;
-  margin-left:5px;
-  font-size: 30px;
+  margin-left:10px;
+  font-size: .8rem;
   transform: translate(0,-50%);
+  font-weight: 600;
+  font-family: 'Roboto Condensed', sans-serif;
+  transition: .4s all ease;
+  letter-spacing: .15em;
 }
 #DrawingApp{
   background-image: url(../images/drawing.png);
