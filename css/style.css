@@ -404,11 +404,20 @@ padding-left: 80px;
   text-align: center;
   opacity:0;
 }
-.project:hover .projectName{
+/*.project:hover .projectName{
   opacity:1;
-}
+}*/
 .project:hover .projectHover{
   background-color: rgba(0,2,84,0.6);
+}
+
+
+.projectHomeName{
+	opacity: 0;
+}
+
+.projectHome:hover .projectHomeName {
+	opacity: 1;
 }
 
 #bottom{
