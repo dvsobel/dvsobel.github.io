@@ -368,15 +368,7 @@ padding-left: 80px;
   height:461px;
   margin:-553px auto 100px auto;
 }*/
-/*#tryBtn{
-  padding:10px 15px;
-  background-color: rgb(153,102,255);
-  color: rgb(244,243,239)!important;
-  font-family: 'Quicksand', sans-serif;
-  font-weight: 700;
-  font-size:20px;
-  text-decoration: none;
-}*/
+
 #portfolio2{
   width:90%;
   position:relative;
@@ -441,6 +433,17 @@ padding-left: 80px;
   vertical-align: middle;
   font-size: 12px;
   padding-top:20px;
+}
+
+
+#tryBtn{
+  padding:10px 15px;
+  background-color: #00B4FF;
+  color: rgb(244,243,239)!important;
+  font-family: 'Open-Sans', sans-serif;
+  font-weight: 700;
+  font-size:20px;
+  text-decoration: none;
 }
 
 
