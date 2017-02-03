@@ -9,6 +9,7 @@
 
 	<link href="assets/css/styles.css" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+	<link href='https://fonts.googleapis.com/css?family=Roboto+Condensed:300' rel='stylesheet' type='text/css'>
 <link href="https://fonts.googleapis.com/css?family=Fira+Mono|Fira+Sans|Libre+Baskerville|Slabo+27px" rel="stylesheet">
 
 </head>
@@ -17,21 +18,30 @@
 
 
 
-<ul>
-  <li><a class="home.html" href="index.html">HOME</a></li>
-  <li><a class="design.html" href="design.html">DESIGN</a></li>
-  <li><a class="painting.html" href="painting.html">PAINTING</a></li>
-  <li><a class="aboutMe.html" href="aboutMe.html">ABOUT ME</a></li>
-</ul>
+
 	<div class="main-content">
 
 		<div class="all-students page">
+
+
 			<div class="filters">
+
+			<ul>
+  <li><a class="home.html" href="index.html">HOME</a></li>
+ <!--  <li><a class="design.html" href="design.html">DESIGN</a></li> -->
+  <!-- <li><a class="painting.html" href="painting.html">PAINTING</a></li>
+  <li><a class="development.html" href="development.html">WEB-DEVELOPMENT</a></li> -->
+</ul>
 			<!-- 	<h1 class="ultra-big">Web Development</h1>
  -->
 				<form>
 					<div class="filter-criteria">
-						<span>Filter by Art Period</span>
+						<span>MET: Filter By Art Period</span>
+						<p id="art-period-d">For this data-driven web application, I was inspired by the Metropolitan Museum of Art website. With data from a JSON file, I created a dynamic html website with hash pages and a filtering system.</p>
+
+						<br><br>
+
+
 						<label><input type="checkbox" name="thesis-category" value="impressionism">Impressionism</label>
 						<label><input type="checkbox" name="thesis-category" value="post-impressionism">Post-Impressionism</label>
 						<label><input type="checkbox" name="thesis-category" value="cubism">Cubism</label>
@@ -54,7 +64,7 @@
 				</form>
 			</div>
 
-			<p class="Met">Filter Art Periods</p>
+			<!-- <p class="Met">Filter Art Periods</p> -->
 			<ul class="students-list">
 				<script id="students-template" type="x-handlebars-template">​
 					{{#each this}}
