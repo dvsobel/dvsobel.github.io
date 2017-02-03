@@ -61,6 +61,10 @@ document.getElementById("instruction").addEventListener("click",function(){
     window.location.href="instruction.html";
 });
 
+document.getElementById("development").addEventListener("click",function(){
+    window.location.href="development.html";
+});
+
 
 
 
