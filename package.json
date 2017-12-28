@@ -9,5 +9,13 @@
   "license": "ISC",
   "dependencies": {},
   "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dvsobel/dvsobel.github.io.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dvsobel/dvsobel.github.io/issues"
+  },
+  "homepage": "https://github.com/dvsobel/dvsobel.github.io#readme",
   "description": ""
 }

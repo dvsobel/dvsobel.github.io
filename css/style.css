@@ -20,15 +20,30 @@ body{
 
 .danielle_titles{
 	text-align: center;
-	padding-top: 50px;
+	padding-top: 100px;
 	/*padding-left: 30px;*/
-	padding-bottom: 50px;
+	padding-bottom: 10px;
 	font-family: 'Roboto Condensed', sans-serif;
-/*	font-weight: 300;*/
+	font-weight: 800;
 	font-size: 10vh;
-	color: #515151;
+	color: #E2BAAA;
 	margin:0;
+/*  border-bottom:30px blue;*/
 }
+
+
+
+hr { 
+    display: block;
+    margin-top: .4em;
+    margin-bottom: 0.5em;
+    margin-left: 6%;
+    margin-right: 6%;
+    border-style: inset;
+    border-width: .5px;
+    border-color: #577DBE;
+
+} 
 
 
 /*-*********************NAVIGATION BAR************************/
@@ -37,13 +52,13 @@ ul {
     margin: 0;
     padding: 0;
     font-family: 'Roboto Condensed', sans-serif;
-    color: #FFFFFF;
+    color: #577DBE;
     background-color: white;
     /*size: 8px;*/
     width:100%;
-    font-size: .8rem;
+    font-size: .9rem;
     text-align:left;
-    letter-spacing: .15em;
+    letter-spacing: .1em;
 	}
 
 
@@ -60,19 +75,19 @@ li a {
 
 /*links to not change colors*/
 a:link {
-	color: black;
+	color: #577DBE;
 }
 
 a:visited {
-	color: black;
+	color: #577DBE;
 }	
 
 a:hover{
-    color: #00B4FF;
+    color: #E2BAAA;
 }
 
 a:active{
-	color: black;
+	color: #577DBE;
 }
 
 
@@ -162,28 +177,29 @@ iframe{
 /*Index*/
 
 #portfolio{
-  width:80%;
+  width:90%;
   position:relative;
   margin-left:auto;
   margin-right:auto;
   text-align: center;
-  padding-bottom:50px;
+  padding-bottom:5px;
+  padding-top: 80px;
 }
 .projectHome{
   display: inline-block;
-  width:200px;
-  height:200px;
-  margin-left:20px;
-  margin-top:20px;
+  width:320px;
+  height:320px;
+  margin-left:5px;
+  margin-top:5px;
   position:relative;
 }
 .projectHoverHome{
-  width:200px;
-  height:200px;
+  width:320px;
+  height:320px;
   position:absolute;
 }
 .projectHome:hover .projectHoverHome{
-  background-color: rgba(0,2,84,0.6);
+  background-color: rgba(93,136,217,0.6);
 }
 .projectHomeName{
   position:absolute;
@@ -194,7 +210,7 @@ iframe{
   font-size: .8rem;
   transform: translate(0,-50%);
   font-weight: 600;
-  font-family: 'Roboto Condensed', sans-serif;
+  font-family: 'Cabin', sans-serif;
   transition: .4s all ease;
   letter-spacing: .15em;
 }
@@ -263,7 +279,8 @@ iframe{
 /*ABOUT ME SECTION*/
 #about{
   width:100%;
-  background-color: rgb(51,51,51);
+  min-height: 50vh;
+  background-color: #577dbe;
   padding:220px 0;
 }
 #about2{
@@ -279,11 +296,12 @@ iframe{
 }
 #about2 #text{
   display:inline-block;
+  line-height: 2;
   width:467px;
   padding-left:20px;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Cabin', sans-serif;
   font-weight: 400;
-  font-size:14px;
+  font-size:16px;
   color: rgb(244,243,239);
 }
 
@@ -292,8 +310,8 @@ iframe{
 
 @media (max-width: 555px){
   .project{
-    width:175px;
-    height:175px;
+    width:170px;
+    height:170px;
     margin-left:10px;
     margin-top:10px;
   }
@@ -304,13 +322,14 @@ iframe{
     position:absolute;
   }
   #about2 img{
-  width: 30%;
+  width: 100%;
   display:block;
   margin:0 auto;
   }
   #about2 #text{
   width:90% !important;
   margin:20px auto 0 auto !important;
+  line-height: 2;
   }
 }
 @media (max-width: 910px){
@@ -318,13 +337,14 @@ iframe{
     display:none;
   }
   #about2{
-    width:90%;
+    width:80%;
   }
   #about2 #text{
   width:55%;
+  line-height: 1.5;
   }
   #about2 img{
-  width: 30%;
+  width: 80%;
   }
 }
 
