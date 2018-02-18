@@ -444,11 +444,11 @@ height: auto;
     height:175px;
     position:absolute;
   }
-  #about2 img{
+/*  #about2 img{
   width: 100%;
   display:block;
   margin:0 auto;
-  }
+  }*/
   #about2 #text{
   width:90% !important;
   margin:20px auto 0 auto !important;
@@ -459,16 +459,16 @@ height: auto;
   #about2 .disappear{
     display:none;
   }
-  #about2{
+/*  #about2{
     width:80%;
-  }
+  }*/
   #about2 #text{
   width:55%;
   line-height: 1.5;
   }
-  #about2 img{
+/*  #about2 img{
   width: 80%;
-  }
+  }*/
 }
 
 /*Projects page*/
