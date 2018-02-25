@@ -6,6 +6,7 @@ body{
   min-width: 400px;
 }
 
+
 h2{
   font-size: 3em;
   line-height: 1.25em;
@@ -14,7 +15,6 @@ h2{
    font-weight: 100;
    font-style: normal;
    margin-top: 70px;
-
 }
 
 .identityGradient{
@@ -22,7 +22,6 @@ h2{
           width: 100%;
   height:2vw;
   position: relative;
-  /*margin-top: -50px;*/
   left: 50%;
   transform: translateX(-50%);
 }
@@ -71,8 +70,6 @@ h2{
 .phoneImgChange{
   display:block;
   width:300px;
-  /*left:50%;*/
-  /*margin:20px auto;*/
 }
 
 #navBar{
@@ -84,6 +81,7 @@ h2{
   z-index: 1;
   background-color: rgb(244,243,239);
 }
+
 #navButtons{
   width:90%;
   height:50px;
@@ -125,7 +123,6 @@ h2{
 	font-size: 12vh;
 	color: #E2BAAA;
 	margin:0;
-/*  border-bottom:30px blue;*/
 }
 
 
@@ -157,7 +154,6 @@ ul {
     font-family: 'Roboto Condensed', sans-serif;
     color: #577DBE;
     background-color: white;
-    /*size: 8px;*/
     width:100%;
     font-size: 1.2rem;
     text-align:left;
@@ -246,10 +242,14 @@ a:active{
   /*display:inline-block;*/
   vertical-align: top;
 }
+
+
 #projectDes a,#project a{
  /* color: rgb(153,102,255);*/
   text-decoration: none;
 }
+
+
 #project{
   /*display:inline-block;*/
   width: calc(100% -300px );
@@ -299,15 +299,6 @@ a:active{
   padding-left: 10%;
 }
 
-/*.projectImgSmall{
-
-  width:200px;
-height: auto;
-  position: relative;
-    transform: translateX(-50%);
-
-}*/
-
 
 
 /*Index*/
@@ -321,6 +312,8 @@ height: auto;
   padding-bottom:5px;
   padding-top: 30px;
 }
+
+
 .projectHome{
   display: inline-block;
   width:320px;
@@ -329,14 +322,17 @@ height: auto;
   margin-top:5px;
   position:relative;
 }
+
 .projectHoverHome{
   width:320px;
   height:320px;
   position:absolute;
 }
+
 .projectHome:hover .projectHoverHome{
   background-color: rgba(93,136,217,0.6);
 }
+
 .projectHomeName{
   position:absolute;
   top:50%;
@@ -403,20 +399,20 @@ height: auto;
   /*min-height: 50vh;*/
   /*background-color: #E2BAAA;*/
   padding:20px 0;
-
 }
+
 #about2{
   width:80%;
   position:relative;
   margin-left:auto;
   margin-right:auto;
-
-  
 }
+
 #about2 img{
   display:inline-block;
   vertical-align: top;
 }
+
 #about2 #text{
   display:inline-block;
   line-height: 2;
@@ -444,32 +440,28 @@ height: auto;
     height:175px;
     position:absolute;
   }
-/*  #about2 img{
-  width: 100%;
-  display:block;
-  margin:0 auto;
-  }*/
+
+
   #about2 #text{
   width:90% !important;
   margin:20px auto 0 auto !important;
   line-height: 2;
   }
+
 }
-@media (max-width: 910px){
+
+
+/*@media (max-width: 910px){
   #about2 .disappear{
     display:none;
   }
-/*  #about2{
-    width:80%;
-  }*/
+
+
   #about2 #text{
   width:55%;
   line-height: 1.5;
-  }
-/*  #about2 img{
-  width: 80%;
   }*/
-}
+
 
 /*Projects page*/
 
@@ -487,8 +479,6 @@ height: auto;
   font-size: 2em;
   font-family: 'Open-Sans', sans-serif;
   font-weight: 200;
-
-
 }
 
 .idea-title{
@@ -511,31 +501,6 @@ padding-left: 80px;
   line-height: 1.5;
 }
 
-
-
-
-
-/*#marveliframe{
-  height:823px;
-}*/
-/*#demo{
-  display:inline-block;
-  width: 49%;
-  min-width: 350px;
-  vertical-align: middle;
-}*/
-/*#iPhone1{
-  display:block;
-  width:300px;
-  left:50%;
-  margin:20px auto;
-}*/
-/*#demo1{
-  display:block;
-  width:260px;
-  height:461px;
-  margin:-553px auto 100px auto;
-}*/
 
 #portfolio2{
   width:90%;
@@ -574,9 +539,8 @@ padding-left: 80px;
   text-align: center;
   opacity:0;
 }
-/*.project:hover .projectName{
-  opacity:1;
-}*/
+
+
 .project:hover .projectHover{
   background-color: rgba(0,2,84,0.6);
 }
@@ -607,7 +571,7 @@ padding-left: 80px;
 #tryBtn{
   padding:10px 15px;
   background-color: #202020;
-  color: rgb(244,243,239)!important;
+  color: rgb(244,243,239);
   font-family: 'Open-Sans', sans-serif;
   font-weight: 700;
   font-size:18px;
@@ -632,7 +596,7 @@ padding-left: 80px;
   }
 }
 
-/*jfdkljflksdjflksjdfkl;*/
+
 article {
     -webkit-columns: 2 200px;
        -moz-columns: 2 200px;
@@ -646,4 +610,4 @@ article {
             margin-bottom: 75px;
 }
 
-/*-------------------------------------------------------*/
+
