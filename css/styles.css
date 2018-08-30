@@ -15,7 +15,7 @@
 	zoom: 0.9;
 }*/
 /*body{
-	font-size: 16px; 
+	font-size: 16px;
 	font-family: 'Open Sans', sans-serif;
 }*/
 h1, h3{
@@ -40,7 +40,7 @@ a:hover{
 /*.Met{*/
 	/*text-align: left;*/
 /*	margin-left: -100px;
-	display: inline-block; 
+	display: inline-block;
 	font-family: 'Libre Baskerville', serif;
 	font-size: 60px;
 	margin-top: 70px;
@@ -240,7 +240,7 @@ form {
 	letter-spacing: 1px;
 }
 .students-list h3{
-	
+
 	font-size: 1em;
 	letter-spacing: .5px;
 	font-family: 'Open-Sans', sans-serif;
