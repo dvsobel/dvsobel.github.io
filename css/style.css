@@ -298,6 +298,15 @@ a:active{
   transform: translateX(-50%); */
 }
 
+.projectImgConversation{
+  width:auto;
+  height:900px;
+  position: relative;
+  text-align: center;
+  /* left: 50%;
+  transform: translateX(-50%); */ 
+}
+
 .projectImgPaper{
   width:50%;
   height:auto;
