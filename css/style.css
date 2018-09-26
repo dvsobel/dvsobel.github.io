@@ -298,13 +298,37 @@ a:active{
   transform: translateX(-50%); */
 }
 
+.JourneyMap{
+  width:80%;
+  height:auto;
+  position: relative;
+  /* left: 50%;
+  transform: translateX(-50%); */
+}
+
+.ProjectImgMe{
+  width:35%;
+  height:auto;
+  position: relative;
+  /* left: 50%;
+  transform: translateX(-50%); */
+}
+
+.ProjectImgSort{
+  width:15%;
+  height:auto;
+  position: relative;
+  /* left: 50%;
+  transform: translateX(-50%); */
+}
+
 .projectImgConversation{
   width:auto;
   height:900px;
   position: relative;
   text-align: center;
   /* left: 50%;
-  transform: translateX(-50%); */ 
+  transform: translateX(-50%); */
 }
 
 .projectImgPaper{
@@ -394,7 +418,7 @@ height: auto;
   color:white;
   text-align: left;
   margin-left:10px;
-  font-size: .8rem;
+  font-size: 1rem;
   transform: translate(0,-50%);
   font-weight: 600;
   font-family: 'Cabin', sans-serif;
@@ -449,6 +473,11 @@ height: auto;
 
 #watson{
   background-image: url(../images/watsoncover.png);
+  background-size: contain;
+}
+
+#cart{
+  background-image: url(../images/CartSquare.png);
   background-size: contain;
 }
 
@@ -661,15 +690,22 @@ padding-left: 80px;
 }
 
 
-#tryBtn{
+.Button{
   padding:10px 15px;
-  background-color: #202020;
+  background-color: #577DBE;
   color: rgb(244,243,239)!important;
   font-family: 'Open-Sans', sans-serif;
   font-weight: 700;
   font-size:18px;
   text-decoration: none;
-  border: 1px solid #4c4c4c;
+  border: 1px solid #577DBE;
+  -webkit-transition-duration: 0.4s;
+  transition-duration: 0.4s;
+  cursor:pointer;
+}
+
+.Button: hover{
+  background-color: black;
 }
 
 
@@ -691,6 +727,19 @@ padding-left: 80px;
 
 /*jfdkljflksdjflksjdfkl;*/
 article {
+    -webkit-columns: 2 200px;
+       -moz-columns: 2 200px;
+            columns: 2 200px;
+    -webkit-column-gap: 4em;
+       -moz-column-gap: 4em;
+            column-gap: 4em;
+    -webkit-column-rule: 1px dotted #ddd;
+       -moz-column-rule: 1px dotted #ddd;
+            column-rule: 1px dotted #ddd;
+            margin-bottom: 75px;
+}
+
+article2 {
     -webkit-columns: 2 200px;
        -moz-columns: 2 200px;
             columns: 2 200px;
