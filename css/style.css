@@ -314,8 +314,8 @@ a:active{
   transform: translateX(-50%); */
 }
 
-.ProjectImgSort{
-  width:15%;
+.projectImgSort{
+  width:75%;
   height:auto;
   position: relative;
   /* left: 50%;
@@ -441,6 +441,11 @@ height: auto;
 
 #identity{
   background-image: url(../images/IdentityCover.png);
+  background-size: contain;
+}
+
+#visdesign{
+  background-image: url(../images/XXX.png);
   background-size: contain;
 }
 
