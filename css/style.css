@@ -785,22 +785,38 @@ height: 50%; */
 .prev, .next {
   display: inline-block;
   padding: .35em 1.2em;
-  border: 0.1em solid #000000;
+  border: 0.1em solid black;
+  border-color: #577DBE;
   margin: 0 0.3em 0.3em 0;
   border-radius: 0.12em;
   box-sizing: border-box;
   text-decoration: none;
   text-align: center;
   transition: all 0.2s;
+  color: #577DBE;
+
 }
 
 a.prev:hover{
-  border: 0.1em solid pink;
+  border: 0.1em solid black;
+  border-color: #E2BAAA;
 }
 
 a.next:hover{
-  border: 0.1em solid pink;
+  border: 0.1em solid black;
+  border-color: #E2BAAA;
+  /* color: #577DBE; */
 }
+
+
+a.prev:active{
+	color: #E2BAAA;
+}
+
+a.next:active{
+	color: #E2BAAA;
+}
+
 
 @media all and (max-width:30em){
   a.prev, .next{
