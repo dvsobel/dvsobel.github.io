@@ -160,7 +160,7 @@ hr {
 }
 
 span{
-  font-size: 1.5em;
+  /* font-size: 1.5em; */
   font-weight: bolder;
   font-style: normal;
 
@@ -449,6 +449,15 @@ height: auto;
   background-size: contain;
 }
 
+#Darc{
+  background-image: url(../images/DarcMatterSquare.png);
+  background-size: contain;
+}
+
+#Healthcasts{
+  background-image: url(../images/Healthcasts.png);
+  background-size: contain;
+}
 
 #unity{
   background-image: url(../images/joey.png);
@@ -799,12 +808,12 @@ height: 50%; */
 
 a.prev:hover{
   border: 0.1em solid black;
-  border-color: #E2BAAA;
+  border-color: #577DBE;
 }
 
 a.next:hover{
   border: 0.1em solid black;
-  border-color: #E2BAAA;
+  border-color: #577DBE;
   /* color: #577DBE; */
 }
 
@@ -824,34 +833,6 @@ a.next:active{
     margin: 0.4em auto;
   }
 }
-
-/* Position the "next button" to the right */
-.next {
-  /* right: 0;
-  border-radius: 3px 0 0 3px; */
-}
-
-/* On hover, add a black background color with a little bit see-through */
-/* .prev:hover, .next:hover {
-  background-color: rgba(0,0,0,0.8);
-} */
-
-/* Caption text */
-
-
-/* Number text (1/3 etc) */
-/* .numbertext {
-  color: #f2f2f2;
-  font-size: 12px;
-  padding: 8px 12px;
-  position: absolute;
-  top: 0;
-} */
-
-/* .TransitU{
-  width: auto;
-  height: 50%;
-} */
 
 
 /* Fading animation */
