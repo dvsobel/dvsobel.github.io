@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1566px" height="290px" viewBox="0 0 1566 290" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 5</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-5">
+            <circle id="Oval" fill="#006BA6" cx="145" cy="145" r="145"></circle>
+            <text id="Empathize-Voice-the" font-family="Roboto-Bold, Roboto" font-size="30" font-weight="bold" line-spacing="36" fill="#FFFFFF">
+                <tspan x="73.9111328" y="137">Empathize</tspan>
+                <tspan x="216.088867" y="137" font-size="23"></tspan>
+                <tspan x="41.3652344" y="173" font-family="Roboto-Regular, Roboto" font-size="23" font-weight="normal">Voice  the Customer</tspan>
+            </text>
+            <circle id="Oval" fill="#00A9E0" cx="464" cy="145" r="145"></circle>
+            <path id="Path-2" d="M310.5,140.5 L319.5,145 L310.5,149.5 L310.5,145.5 L290,145.5 L290,144.5 L310.5,144.5 L310.5,140.5 Z" fill="#979797" fill-rule="nonzero"></path>
+            <text id="Define-Theme-Analysi" font-family="Roboto-Bold, Roboto" font-size="30" font-weight="bold" line-spacing="36" fill="#FFFFFF">
+                <tspan x="420.508789" y="137">Define</tspan>
+                <tspan x="382.708252" y="173" font-family="Roboto-Regular, Roboto" font-size="23" font-weight="normal">Theme Analysis</tspan>
+            </text>
+            <circle id="Oval" fill="#40C1AC" cx="783" cy="145" r="145"></circle>
+            <text id="Ideate-Generate-Idea" font-family="Roboto-Bold, Roboto" font-size="30" font-weight="bold" line-spacing="36" fill="#FFFFFF">
+                <tspan x="740.849121" y="133">Ideate</tspan>
+                <tspan x="705.902832" y="169" font-family="Roboto-Regular, Roboto" font-size="23" font-weight="normal" line-spacing="29">Generate Ideas</tspan>
+                <tspan x="686.985107" y="198" font-family="Roboto-Regular, Roboto" font-size="23" font-weight="normal" line-spacing="29">Ideation Workshop</tspan>
+            </text>
+            <circle id="Oval" fill="#8CCA33" cx="1102" cy="145" r="145"></circle>
+            <text id="Prototype-Design-Pro" font-family="Roboto-Bold, Roboto" font-size="30" font-weight="bold" line-spacing="36" fill="#FFFFFF">
+                <tspan x="1035.67188" y="133">Prototype</tspan>
+                <tspan x="1014.2395" y="169" font-family="Roboto-Regular, Roboto" font-size="23" font-weight="normal" line-spacing="29">Design Prototype</tspan>
+                <tspan x="1024.27954" y="198" font-family="Roboto-Regular, Roboto" font-size="23" font-weight="normal" line-spacing="29">Internal Review</tspan>
+            </text>
+            <circle id="Oval" fill="#FFB81C" cx="1421" cy="145" r="145"></circle>
+            <text id="Validate-Usability-T" font-family="Roboto-Bold, Roboto" font-size="30" font-weight="bold" line-spacing="36" fill="#FFFFFF">
+                <tspan x="1365.52637" y="133">Validate</tspan>
+                <tspan x="1336.2605" y="169" font-family="Roboto-Regular, Roboto" font-size="23" font-weight="normal" line-spacing="29">Usability Testing</tspan>
+                <tspan x="1334.83423" y="198" font-family="Roboto-Regular, Roboto" font-size="23" font-weight="normal" line-spacing="29">Revise Prototype</tspan>
+            </text>
+            <path id="Path-2" d="M629.5,147.5 L638.5,152 L629.5,156.5 L629.5,152.5 L609,152.5 L609,151.5 L629.5,151.5 L629.5,147.5 Z" fill="#979797" fill-rule="nonzero"></path>
+            <path id="Path-2" d="M948.5,147.5 L957.5,152 L948.5,156.5 L948.5,152.5 L928,152.5 L928,151.5 L948.5,151.5 L948.5,147.5 Z" fill="#979797" fill-rule="nonzero"></path>
+            <path id="Path-2" d="M1268.5,147.5 L1277.5,152 L1268.5,156.5 L1268.5,152.5 L1248,152.5 L1248,151.5 L1268.5,151.5 L1268.5,147.5 Z" fill="#979797" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>
