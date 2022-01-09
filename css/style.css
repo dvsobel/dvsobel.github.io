@@ -367,12 +367,12 @@ a:active{
 }
 
 #CLCD{
-  background-image: url(../images/VeriskCLCD.svg);
+  background-image: url(../images/VeriskSquareLB.svg);
   background-size: contain;
 }
 
 #Forms{
-  background-image: url(../images/VeriskForms.svg);
+  background-image: url(../images/VeriskSquare.svg);
   background-size: contain;
 }
 
