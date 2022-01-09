@@ -137,7 +137,7 @@ hr {
     margin-right: 2%;
     border-style: inset;
     border-width: .5px;
-    border-color: #577DBE;
+    border-color: #535352;
 
 }
 
@@ -175,22 +175,23 @@ li a {
 
 /*links to not change colors*/
 a:link {
-	color: #577DBE;
+	color: #10284B;
 }
 
 a:visited {
-	color: #577DBE;
+	color: #10284B;
 }
 
 a:hover{
-    color: #E2BAAA;
+    color: #611BD4;
+    text-decoration: underline;
 }
 
 a:active{
-	color: #577DBE;
+	color: #611BD4;
 }
 
-
+/* pink - E2BAAA */
 #bottomHome{
   position:relative;
   width:100%;
@@ -586,21 +587,21 @@ padding-left: 80px;
 
 .Button{
   padding:10px 15px;
-  background-color: #0664F8;
+  background-color: #611BD4;
   border-radius: 5px;
   color: rgb(244,243,239)!important;
   font-family: 'Open-Sans', sans-serif;
   font-weight: 700;
   font-size:18px;
   text-decoration: none;
-  border: 1px solid #0664F8;
+  border: 1px solid #611BD4;
   -webkit-transition-duration: 0.4s;
   transition-duration: 0.4s;
   cursor:pointer;
 }
 
 .Button:hover{
-  background-color: #06B5F8;
+  background-color: #7A45D2;
   color: white;
 }
 
